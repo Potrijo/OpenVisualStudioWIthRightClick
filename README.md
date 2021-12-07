@@ -1,5 +1,7 @@
 https://onlinestringtools.com/escape-string // Change to double slash
 
+ATTENTION: rf.reg file is an example
+
 Create a file.reg
 fill up with the following content:
 
